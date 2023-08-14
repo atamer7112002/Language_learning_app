@@ -1,16 +1,1 @@
-# Language_learning_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Toku app is an application for learning the Japanese language from the English language. In this application, you will find 4 screens. The first screen is for numbers in English and translated in Japanese, and there is also a sound to hear the word. As for the second screen, it is for family members, while the third is for colors in Japanese. As for the fourth screen It is for a group of sentences in the Japanese language, and there is also an audio playback to hear these sentences
